@@ -1,0 +1,6 @@
+pronoun = input("Enter a pronoun: ")
+adjective = input("Enter an adjective: ")
+youme = input("Enter you or me: ")
+print("If " + pronoun + " lose it all")
+print("Slip and " + adjective)
+print("Will " + youme + " laugh at me?")

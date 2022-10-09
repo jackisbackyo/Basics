@@ -29,26 +29,26 @@ if answer.lower() == 'power supply unit':
     score += 1
 else:
     print("Wrong!")
-answer = input("What does NGNL stand for? ")
-if answer.lower() == 'no game no life':
+answer = input("What does graphics card improve? ")
+if answer.lower() == 'graphics':
     print("Correct!")
     score += 1
 else:
     print("Wrong!")
-answer = input("What is the name of sun wukong's staff? ")
-if answer.lower() == 'ruyi jingu ban':
+answer = input("What is the the latest windows update? ")
+if answer.lower() == 'windows 11':
     print("Correct!")
     score += 1
 else:
     print("Wrong!")
-answer = input("What is Goku's saiyan name? ")
-if answer.lower() == 'kakkarot':
+answer = input("What does RAM give quick access to? ")
+if answer.lower() == 'computing resources':
     print("Correct!")
     score += 1
 else:
     print("Wrong!")
-answer = input("When is Bennet's Birthday? (Genshin Impact) ")
-if answer.lower() == '2/28':
+answer = input("Who was the 16th president of the U.S? (last name) ")
+if answer.lower() == 'lincoln':
     print("Correct!")
     score += 1
 else:

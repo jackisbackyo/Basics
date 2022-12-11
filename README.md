@@ -1,2 +1,2 @@
-# Basics
-Just some simple projects I made using Python.
+Simple Python Projects for Beginners!
+Just some simple projects I made using Python (Beginner-friendly).
